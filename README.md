@@ -3,8 +3,7 @@
 Fine-tuning BERT to predict one or more labels for a given input text
 
 ## Requirements
-Python >= 3.6
-
+Python >= 3.6\
 Others are listed in: requirements.txt
 
 ```bash
