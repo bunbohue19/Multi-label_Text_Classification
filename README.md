@@ -1,10 +1,10 @@
 # Multi-label Text Classification
 
-This is the implementation for the Multi-label Text Classification task
+Fine-tuning BERT to predict one or more labels for a given input text
 
 ## Requirements
-
-Listed in: requirements.txt
+Python >= 3.6
+Others are listed in: requirements.txt
 
 ```bash
 pip install -r requirements.txt
